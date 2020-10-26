@@ -6,7 +6,7 @@
 
 ### _Step 2 - Open text script of batman_
 ###### Next, we'll open our text script 'batman.txt' having more than 10,000 words in it which is completely based on the movie 'Batman'.
-<a href="url"><img src="http://github.com/RawatMeghna/Batman_Wordcloud/batman.png" align="left" height="10" width="15"></a>
+<img src="http://github.com/RawatMeghna/Batman_Wordcloud/batman.png" align="left" height="10" width="15"/>
 
 ### _Step 3 - Set the appearance of wordcloud_
 ###### Now, we'll open our batman png image using numpy library and also set the appearance of the wordcloud like colour, contour, etc.
@@ -16,10 +16,10 @@
 
 ### _Step 5 - Plot the wordcloud_
 ###### Last step involves plotting the wordcloud using matplotlib library.
-<a href="url"><img src="http://github.com/RawatMeghna/Batman_Wordcloud/batman_color_wordcloud.png" align="left" height="10" width="15"></a>
+<img src="http://github.com/RawatMeghna/Batman_Wordcloud/batman_color_wordcloud.png" align="left" height="10" width="15"/>
 
 ### _Step 6 - Save the generated wordcloud_
 ###### Eventually, we'll save our generated wordcloud to our pc or device in the png format.
-<a href="url"><img src="http://github.com/RawatMeghna/Batman_Wordcloud/batman_bnw_wordcloud.png" align="left" height="10" width="15"></a>
-<a href="url"><img src="http://github.com/RawatMeghna/Batman_Wordcloud/batman_joker_wordcloud.png" align="left" height="10" width="10"></a>
-<a href="url"><img src="http://github.com/RawatMeghna/Batman_Wordcloud/batman_silhouette_wordcloud.png" align="left" height="10" width="10"></a>
+<img src="http://github.com/RawatMeghna/Batman_Wordcloud/batman_bnw_wordcloud.png" align="left" height="10" width="15"/>
+<img src="http://github.com/RawatMeghna/Batman_Wordcloud/batman_joker_wordcloud.png" align="left" height="10" width="10"/>
+<img src="http://github.com/RawatMeghna/Batman_Wordcloud/batman_silhouette_wordcloud.png" align="left" height="10" width="10"/>
