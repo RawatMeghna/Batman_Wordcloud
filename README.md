@@ -20,6 +20,6 @@
 
 ### _Step 6 - Save the generated wordcloud_
 ###### Eventually, we'll save our generated wordcloud to our pc or device in the png format.
-<p align='left"><img src="batman_bnw_wordcloud.png" align="left" height="40" width="40"/>
-<img src="batman_joker_wordcloud.png" align="left" height="48" width="48"/>
-<img src="batman_silhouette_wordcloud.png" align="left" height="48" width="48"/>
+![wc]<p align='left"><img src="batman_bnw_wordcloud.png" align="left" height="40" width="40"/>
+![wc}<img src="batman_joker_wordcloud.png" align="left" height="48" width="48"/>
+![wc]<img src="batman_silhouette_wordcloud.png" align="left" height="48" width="48"/>
