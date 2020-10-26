@@ -1,14 +1,12 @@
 # Batman Wordcloud
 ###### Creating a Wordcloud based on the script of the movie 'Batman' with Python
 
-# <font color='Dark blue'>Batman Wordcloud</font>
-
-### _Step 1 - Import libraries
+### _Step 1 - Import libraries_
 ###### We'll import some python libraries like WordCloud, matplotlib.pyplot, PIL and numpy for the ceation of our wordcloud.
 
 ### _Step 2 - Open text script of batman_
 ###### Next, we'll open our text script 'batman.txt' having more than 10,000 words in it which is completely based on the movie 'Batman'.
-![raw_image](https://github.com/RawatMeghna/Batman_Wordcloud/blob/master/batman.png?raw=true)
+![raw_image](batman.png)
 
 ### _Step 3 - Set the appearance of wordcloud_
 ###### Now, we'll open our batman png image using numpy library and also set the appearance of the wordcloud like colour, contour, etc.
@@ -22,6 +20,6 @@
 
 ### _Step 6 - Save the generated wordcloud_
 ###### Eventually, we'll save our generated wordcloud to our pc or device in the png format.
-![wordcloud](https://github.com/RawatMeghna/Batman_Wordcloud/blob/master/batman_bnw_ordcloud.png?raw=true)
-![joker_wordcloud](https://github.com/RawatMeghna/Batman_Wordcloud/blob/master/batman_joker_wordcloud.png?raw=true)
-![batman_wordcloud](https://github.com/RawatMeghna/Batman_Wordcloud/blob/master/batman_silhouette_wordcloud.png?raw=true)
+![wordcloud](batman_bnw_wordcloud.png)
+![joker_wordcloud](batman_joker_wordcloud.png)
+![batman_wordcloud](batman_silhouette_wordcloud.png)
