@@ -18,20 +18,18 @@
    - In this step, we'll create our wordcloud by combining our image and text script according to the appearance we have set.  
 
 **_Step 5 - Plot the wordcloud_**
-   - Last step involves plotting the wordcloud using matplotlib library.
-   
-   
-     ![Batman_Color](https://github.com/RawatMeghna/Batman_Wordcloud/images/batman_color_wordcloud.png)
+   - Last step involves plotting the wordcloud using matplotlib library.  
+     ![Batman_Color](https://github.com/RawatMeghna/Batman_Wordcloud/images/batman_color_wordcloud.png)  
 
 **_Step 6 - Save the generated wordcloud_**
    - Eventually, we'll save our generated wordcloud to our pc or device in the png format.
 
 **Other examples**
-   - Here are some other images I've experimented on and turned them into wordcloud.
-     ![Batman BnW Wordcloud](https://github.com/RawatMeghna/Batman_Wordcloud/batman_bnw_wordcloud.png)
+   - Here are some other images I've experimented on and turned them into wordcloud.  
+     ![Batman BnW Wordcloud](https://github.com/RawatMeghna/Batman_Wordcloud/batman_bnw_wordcloud.png)  
      
      
-     ![Joker](https://github.com/RawatMeghna/Batman_Wordcloud/batman_joker_wordcloud.png)
+     ![Joker](https://github.com/RawatMeghna/Batman_Wordcloud/batman_joker_wordcloud.png)  
      
      
-     ![Batman Silhouette](https://github.com/RawatMeghna/Batman_Wordcloud/batman_silhouette_wordcloud.png)
+     ![Batman Silhouette](https://github.com/RawatMeghna/Batman_Wordcloud/batman_silhouette_wordcloud.png)  
