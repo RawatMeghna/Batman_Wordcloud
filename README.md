@@ -10,28 +10,25 @@
       
 **_Step 3 - Set the appearance of wordcloud_**
    - Now, we'll open our batman png image using numpy library and also set the appearance of the wordcloud like colour, contour, etc.
-     - 
-       * ***[Batman](https://github.com/RawatMeghna/Batman_Wordcloud/batman.png)***
-       ![Batman](https://github.com/RawatMeghna/Batman_Wordcloud/batman.png)
+     * ***[Batman](https://github.com/RawatMeghna/Batman_Wordcloud/batman.png)***
+     ![Batman](https://github.com/RawatMeghna/Batman_Wordcloud/batman.png)
 
 **_Step 4 - Creation of wordcloud_**
    - In this step, we'll create our wordcloud by combining our image and text script according to the appearance we have set.  
 
 **_Step 5 - Plot the wordcloud_**
    - Last step involves plotting the wordcloud using matplotlib library.  
-     - 
-       * ***[Batman_Color](https://github.com/RawatMeghna/Batman_Wordcloud/batman_color_wordcloud.png)***
-       ![Batman_Color](https://github.com/RawatMeghna/Batman_Wordcloud/batman_color_wordcloud.png)
+     * ***[Batman_Color](https://github.com/RawatMeghna/Batman_Wordcloud/batman_color_wordcloud.png)***
+     ![Batman_Color](https://github.com/RawatMeghna/Batman_Wordcloud/batman_color_wordcloud.png)
 
 **_Step 6 - Save the generated wordcloud_**
    - Eventually, we'll save our generated wordcloud to our pc or device in the png format.
 
 **Other examples**
    - Here are some other images I've experimented on and turned them into wordclouds
-     - 
-       * ***[Batman_BnW](https://github.com/RawatMeghna/Batman_Wordcloud/batman_bnw_wordcloud.png)***
-       ![Batman_BnW](https://github.com/RawatMeghna/Batman_Wordcloud/batman_bnw_wordcloud.png)
-       * ***[Batman_Joker](https://github.com/RawatMeghna/Batman_Wordcloud/batman_joker_wordcloud.png)***
-       ![Batman_Joker](https://github.com/RawatMeghna/Batman_Wordcloud/batman_joker_wordcloud.png)
-       * ***[Batman_Silhouette](https://github.com/RawatMeghna/Batman_Wordcloud/batman_silhouette_wordcloud.png)***
-       ![Batman_Silhouette](https://github.com/RawatMeghna/Batman_Wordcloud/batman_silhouette_wordcloud.png)
+   * ***[Batman_BnW](https://github.com/RawatMeghna/Batman_Wordcloud/batman_bnw_wordcloud.png)***
+   ![Batman_BnW](https://github.com/RawatMeghna/Batman_Wordcloud/batman_bnw_wordcloud.png)
+   * ***[Batman_Joker](https://github.com/RawatMeghna/Batman_Wordcloud/batman_joker_wordcloud.png)***
+   ![Batman_Joker](https://github.com/RawatMeghna/Batman_Wordcloud/batman_joker_wordcloud.png)
+   * ***[Batman_Silhouette](https://github.com/RawatMeghna/Batman_Wordcloud/batman_silhouette_wordcloud.png)***
+   ![Batman_Silhouette](https://github.com/RawatMeghna/Batman_Wordcloud/batman_silhouette_wordcloud.png)
