@@ -10,7 +10,7 @@
       
 **_Step 3 - Set the appearance of wordcloud_**
    - Now, we'll open our batman png image using numpy library and also set the appearance of the wordcloud like colour, contour, etc.  
-     ![Batman](https://github.com/RawatMeghna/Batman_Wordcloud/blob/main/batman.png)  
+     ![Batman](https://github.com/RawatMeghna/Batman_Wordcloud/blob/main/batman.png | width=100 | height = 100)  
 
 **_Step 4 - Creation of wordcloud_**
    - In this step, we'll create our wordcloud by combining our image and text script according to the appearance we have set.  
