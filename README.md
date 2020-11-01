@@ -2,7 +2,7 @@
    - We'll create a Wordcloud based on the script of the movie 'Batman' with Python
 
 **_Step 1 - Import libraries_**
-   - We'll import some python libraries like WordCloud, matplotlib.pyplot, PIL and numpy for the ceation of our wordcloud.
+   - We'll import some python libraries like WordCloud, matplotlib.pyplot, PIL and numpy for the creation of our wordcloud.
 
 **_Step 2 - Open text script of batman_**
    - Next, we'll open our text script 'batman.txt' having more than 10,000 words in it which is completely based on the movie 'Batman'.
